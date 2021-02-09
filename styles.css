@@ -30,6 +30,7 @@ p {
 .big-heading {
   font-size: 3.5rem;
   line-height: 1.5;
+  padding: 10px 0 20px 0;
 }
 .section-heading {
   font-size: 3rem;
